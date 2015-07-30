@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laddoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="pick_account">Kindly pick one account to proceed.</string>
+    <string name="not_online">Please turn on your mobile data. </string>
+    <string name="facebook_app_id">967929386561194</string>
+    <string name="sign_in_facebook">Sign In with facebook</string>
+
+</resources>
